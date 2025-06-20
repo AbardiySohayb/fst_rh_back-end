@@ -1,4 +1,4 @@
-# README for fst_rh_back-end
+# README 
 
 ## Overview
 
